@@ -98,10 +98,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "<p> Business Analyst <br> Data analyst </p> "
   location         : "Sao Paulo BR"
-  email            : "<p>antoniocnpacheco@gmail.com <br></p> "
+  email            : 
+ 
   links:
     - label: "antoniocnpacheco@gmail.com"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: #"fas fa-fw fa-envelope-square"
       url: "mailto:antoniocnpacheco@gmail.com"
     - label: "Linkedin"
       icon: "/linkedin.png"
