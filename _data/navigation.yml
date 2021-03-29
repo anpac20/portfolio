@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Projetos"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Contato"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+  #- title: "Projetos"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "Contato"
+  #  url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
