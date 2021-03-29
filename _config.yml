@@ -98,9 +98,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "<p> Business Analyst <br> Data analyst </p> "
   location         : "Sao Paulo BR"
-  email            :
+  email            : "<p>antoniocnpacheco@gmail.com <br></p> "
   links:
-    - label: "Email"
+    - label: "antoniocnpacheco@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:antoniocnpacheco@gmail.com"
     - label: "Linkedin"
