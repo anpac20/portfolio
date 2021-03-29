@@ -2,7 +2,7 @@
 
 Etapas
 - [Coleta de dados](#coleta)
-- Limpeza
+- Limpezaaa
 - Joins
 - EDA
 - Results
