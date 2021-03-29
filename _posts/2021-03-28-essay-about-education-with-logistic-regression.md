@@ -1,6 +1,6 @@
 Manipulação e análise de dados com python
 
-It's safe to say that better conditions on the educational environment results in better learning but let's try to see how much of each conditions can affect student's *performances*
+It's safe to say that better conditions on the educational environment results in better learning but let's discover what kind of resources has the biggest effects on student's *performances*
 
 Etapas
 - [Coleta de dados](#coleta)
