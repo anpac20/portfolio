@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "default", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "default", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "pt_BR"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Antônio Pacheco"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "<p> Business Analyst <br><br> Data analyst </p> "
+  bio              : "<p> Business Analyst <br> Data analyst </p> "
   location         : "Sao Paulo BR"
   email            :
   links:
