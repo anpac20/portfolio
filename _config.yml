@@ -109,7 +109,7 @@ author:
       url: "https://www.linkedin.com/in/pacheco-antonio/"
     - label: "Resume"
       icon: "/linkedin.png"
-      url: "pdf/Resume-AP.pdf"
+      url: "https://github.com/anpac20/portfolio/blob/master/pdf/Resume-AP.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
