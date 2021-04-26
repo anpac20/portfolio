@@ -4,8 +4,8 @@ It's safe to say that better conditions on the educational environment results i
 
 Steps
 - [Introduction](#introduction)
-- [Cleaning data](cleaning data)
-- [General statistics](#general statistics) 
+- [Cleaning data](#cleaning-data)
+- [General statistics](#general-statistics) 
 - [Hipothesis](#hipothesis) 
 - [ANOVA](#anova)
 - [T-test](#t-test)
