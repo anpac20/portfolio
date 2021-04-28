@@ -6,9 +6,9 @@ Steps
 - [Introduction](#introduction)
 - [Cleaning data](#cleaning-data)
 - [General statistics](#general-statistics) 
-- [Hipothesis](#hipothesis) 
 - [ANOVA](#anova)
 - [T-test](#t-test)
+- [Conclusions](#conclusions)
  
 
 
@@ -18,6 +18,10 @@ Realizado no Brasil anualmente, o ENEM serve de entrada para Universidades Feder
 Para analisar os resultados do ENEM, realizei uma regressão logística a partir das médias por escola no ENEM e dos dados sobre recursos disponíveis nessas escolas.
 
 ### Cleaning data
+
+Os datasets utilizados:
+- ENEM por escolas: link
+- Questionários escolas Brasil
 
 Limpeza de null/Seleção de colunas
 
@@ -32,12 +36,6 @@ ds = ds.filter(columns = 'name')
 
 (describe, geo, histogram, boxplot)
 
-Os datasets utilizados:
-- ENEM por escolas: link
-- Questionários escolas Brasil
-
-
-### Hipothesis
 
 
 
@@ -60,3 +58,5 @@ plt.show()
 Análise 
 Variáveis
  
+
+### Conclusions
